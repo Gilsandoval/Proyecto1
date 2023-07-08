@@ -159,6 +159,11 @@ footer p{
     padding: 12px; 
 }
 
+.Programas{
+    display: flex;
+    flex-wrap: wrap;
+}
+
 @media (min-width: 720px){
     header  .container{
         flex-direction: row;
